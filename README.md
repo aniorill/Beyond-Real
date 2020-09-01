@@ -6,7 +6,7 @@ Beyond-Real will be a revamped website for a 3D illustration artist to showcase 
 
 # Features
 
--About the artist section
+- About the artist section
 - Viewable art section, with the potential to be easily updated as the artist creates new work.
 - Section to communicate with the artist
 - Section to buy or request commisions
