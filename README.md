@@ -1,13 +1,13 @@
 # Beyond-Real
 
-#Overview
+# Overview
 
-#Features
+# Features
 
-#Technologies
+# Technologies
 
-#Necessary To Learn
+# Necessary To Learn
 
-#Project tracker
+# Project tracker
 
-#Wireframes
+# Wireframes
