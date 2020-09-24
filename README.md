@@ -30,4 +30,16 @@ https://trello.com/b/igz8eZmw/beyond-real
 
 # Wireframes
 
+![alt text][img1]
+
+[img1]: https://github.com/aniorill/Beyond-Real/blob/master/BeyondRealHomePageWF.jpeg?raw=true "Home Page Wireframe"
+
+![alt text][img2] 
+
+[img2]: https://github.com/aniorill/Beyond-Real/blob/master/BeyondRealGalleryWF.jpeg?raw=true "Gallery Wireframe"
+
+![alt text][img3]
+
+[img3]: https://github.com/aniorill/Beyond-Real/blob/master/BeyondRealAboutArtistWF.jpeg?raw=true "About the Artist Wireframe"
+
 
