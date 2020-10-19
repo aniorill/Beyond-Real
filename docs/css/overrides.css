@@ -1,0 +1,7 @@
+body {
+    background: #01013c;
+}
+
+#main > .panel.intro .pic {
+    width: 21em;
+}
