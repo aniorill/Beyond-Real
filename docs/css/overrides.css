@@ -5,3 +5,11 @@ body {
 #main > .panel.intro .pic {
     width: 21em;
 }
+
+#work {
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
+#work h2 {
+    color: white;
+}
